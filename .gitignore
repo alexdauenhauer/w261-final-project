@@ -1,3 +1,4 @@
 data/test.txt
 data/train.txt
 .ipynb_checkpoints/
+*.parquet
